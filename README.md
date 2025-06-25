@@ -1,2 +1,2 @@
-# python-day-1
+# Basic Python Program 
 This is a basic paython programs
